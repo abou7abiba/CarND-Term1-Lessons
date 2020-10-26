@@ -1,0 +1,3 @@
+2020-09-21 03:27:31,617 - __main__ - INFO - This image is: <class 'numpy.ndarray'> with dimensions: (540, 960, 3)
+2020-09-21 04:29:46,983 - __main__ - INFO - This image is: <class 'numpy.ndarray'> with dimensions: (540, 960, 3)
+2020-09-21 04:38:13,527 - __main__ - INFO - This image is: <class 'numpy.ndarray'> with dimensions: (540, 960, 3)
